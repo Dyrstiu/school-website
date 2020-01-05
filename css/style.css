@@ -11,13 +11,19 @@
 
 }
 .products{
-    
+    margin-bottom: 20px;
+    background-position: bottom;
+    background-size: 2000px;
 }
-.tvs{
-    margin-top: 30px;
-}
-.marquee{
+.marque {
     font-weight: bold;
     font-size: inherit;
     font-style: italic;
+
+}
+.context{
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 300px;
+
 }
