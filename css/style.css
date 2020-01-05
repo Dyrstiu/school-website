@@ -24,6 +24,19 @@
 .context{
     font-weight: bolder;
     font-style: oblique;
-    font-size: 300px;
+    font-size: 30px;
 
 }
+.map-container-6{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container-6 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
